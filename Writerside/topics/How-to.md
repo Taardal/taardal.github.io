@@ -30,7 +30,7 @@ Some introductory information.
    ```
 
 2. Step with an image
-   ![](image.png)
+   ![foo](i_broke_production.jpg)
 
 <!-- The 'src' attribute should contain the name of an image from the '/images' folder in your project -->
 
